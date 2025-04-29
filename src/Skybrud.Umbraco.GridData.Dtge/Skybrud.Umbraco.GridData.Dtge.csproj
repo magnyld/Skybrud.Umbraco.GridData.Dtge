@@ -31,7 +31,7 @@
   <!-- Include NuGet dependencies -->
   <ItemGroup>
     <PackageReference Include="Skybrud.Umbraco.GridData" Version="[5.0.3,13.999)" />
-    <PackageReference Include="Our.Umbraco.DocTypeGridEditor" Exclude="contentFiles" Version="[10.0.1,13.0)" />
+    <PackageReference Include="Our.Umbraco.DocTypeGridEditor" Exclude="contentFiles" Version="[10.0.1,13.999)" />
     <PackageReference Include="Umbraco.Cms.Core" Version="[10.0.0,13.999)" />
   </ItemGroup>
 
